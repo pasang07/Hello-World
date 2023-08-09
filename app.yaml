@@ -1,4 +1,4 @@
-runtime: java17
+runtime: java
 handlers:
 - url: /.*
   script: this field is required, but ignored
